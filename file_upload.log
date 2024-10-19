@@ -1,0 +1,482 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 00:33:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 00:34:05] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:05:49] "GET /download/Poojan%20Patel.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:07:28] "[31m[1mGET /delete/Poojan%20Patel.pdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:08:45] "DELETE /delete/Poojan%20Patel.pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pip\\_vendor\\packaging\\markers.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_httpauth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_httpauth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_httpauth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\credentials\\providers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\helpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\sse.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\commonconfig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\retention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\datatypes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\abc.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:13:29] "POST /upload HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:13:47] "POST /upload HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:14:08] "POST /upload HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:17:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud Services\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:26:12] "[31m[1mPOST /upload HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:27:50] "[31m[1mPOST /upload HTTP/1.1[0m" 401 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 01:28:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 18:16:21] "[31m[1mGET /files HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 18:17:18] "[31m[1mGET /files HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 18:17:39] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 18:17:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\exceptiongroup\\_exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\exceptiongroup\\_formatting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\exceptiongroup\\_suppress.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\applications.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\background.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\cli.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\concurrency.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\concurrency.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\datastructures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\datastructures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\encoders.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\exception_handlers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\logger.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\middleware\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\middleware\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\params.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\param_functions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\requests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\requests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\responses.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\responses.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\routing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\routing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\security\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\security\\api_key.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\security\\http.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\security\\oauth2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\security\\open_id_connect_url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\staticfiles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\staticfiles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\templating.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\templating.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\testclient.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\testclient.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\types.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\websockets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\websockets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\starlette\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fastapi\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\blueprints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\blueprints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\cli.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\ctx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\debughelpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\logging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sessions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\signals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\templating.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\testing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fontTools\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\fontTools\\misc\\loggingTools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\exc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\blob.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\commit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\submodule\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\git\\objects\\submodule\\root.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\jinja2\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\jsonschema_specifications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\kiwisolver\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\kiwisolver\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\markdown_it\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\markdown_it\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\_decode.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\_encode.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\_format.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\_parse.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mdurl\\_url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\error.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\minioadmin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mpl_toolkits\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\connection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\constants.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\crud.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\dbdoc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\errors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\result.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\mysqlx\\statement.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\numpy\\_typing\\_extended_precision.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\packaging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pip\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pyarrow\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pycparser\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pydantic\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pydantic\\errors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pydantic\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pydantic\\networks.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pydantic\\types.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\__config__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\cluster\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_realtransforms.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_fftlog.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_fftlog_multimethods.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_helper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_backend.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fftpack\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fftpack\\_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fftpack\\_pseudo_diffs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fftpack\\_helper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\fftpack\\_realtransforms.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\integrate\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\integrate\\_quadrature.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\integrate\\_odepack_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\integrate\\_quadpack_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\integrate\\_ode.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_interpolate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_fitpack_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_fitpack2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_polyint.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_cubic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_ndgriddata.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_bsplines.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_pade.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\interpolate\\_rgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\io\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_misc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_lu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_ldl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_cholesky.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_qr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_qz.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_svd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_schur.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_polar.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_matfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\blas.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\lapack.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_special_matrices.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_solvers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_sketches.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\_filters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\_fourier.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\_interpolation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\_measurements.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\ndimage\\_morphology.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\odr\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\odr\\_odrpack.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\odr\\_models.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\optimize\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_multicomp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_sensitivity_analysis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\scipy\\stats\\_survival.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\selenium\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\smmap\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sniffio\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sniffio\\_impl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sortedcontainers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sortedcontainers\\sortedlist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sortedcontainers\\sortedset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\sortedcontainers\\sorteddict.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\soupsieve\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\soupsieve\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit\\echo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit\\commands\\page_config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit\\commands\\execution_control.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\streamlit_lottie\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\retry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\nap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\stop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\wait.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\before.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\after.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\before_sleep.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tenacity\\_asyncio.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tlz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\toolz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tzlocal\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tzlocal\\win32.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\tzlocal\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\timeout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\uvicorn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\uvicorn\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\uvicorn\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\uvicorn\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\card.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\hashes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\i18n\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\i18n\\es.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\i18n\\fi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\ip_address.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\validators\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\watchdog\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\webdriver_manager\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
