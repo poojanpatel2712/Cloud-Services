@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
 from minio import Minio 
 from flask_httpauth import HTTPBasicAuth
-from prometheus import request_time
-from prometheus import upload_counter
+import os
+import logging
 auth = HTTPBasicAuth()
+app = Flask(__name__)
+
 
 # Define valid users
 users = {
@@ -17,9 +19,6 @@ def verify_password(username, password):
         return username
     return None
 
-
-app = Flask(__name__)
-
 # Initialize MinIO client
 client = Minio(
     "localhost:9000",
@@ -28,19 +27,22 @@ client = Minio(
     secure=False
 )
 
-# Default route for the root URL
-@app.route('/')
-def index():
-    return "Welcome to the Local Cloud Storage API"
 
-import os
+# Prometheus configuration for implementing metrix monitoring
+from prometheus_client import Counter, generate_latest, Summary
+from flask import Response
 
-UPLOAD_FOLDER = 'D:\\Cloud_Services\\files'
+# Create a Counter to track total file uploads
+upload_counter = Counter('file_uploads_total', 'Total number of file uploads')
 
-import logging
+# Create a Summary to track the duration of requests
+request_time = Summary('request_processing_seconds', 'Time spent processing request')
 
-# Enable logging to file
-logging.basicConfig(filename='file_upload.log', level=logging.INFO)
+@app.route('/metrics')
+def metrics():
+    return Response(generate_latest(), mimetype='text/plain')
+
+
 
 
 # Upload functionality 
@@ -73,6 +75,21 @@ def upload_file():
         except Exception as e:
             logging.error(f"Error uploading file: {str(e)}")
             return jsonify({"error": str(e)}), 500
+
+
+
+
+# Default route for the root URL
+@app.route('/')
+def index():
+    return "Welcome to the Local Cloud Storage API"
+
+
+UPLOAD_FOLDER = 'D:\\Cloud_Services\\files'
+
+
+# Enable logging to file
+logging.basicConfig(filename='file_upload.log', level=logging.INFO)
 
 
 

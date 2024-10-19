@@ -756,3 +756,399 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 993-438-338
 INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\profile.py', reloading
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:57:00] "GET /metrics HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:57:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:57:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:57:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:57:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:58:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:58:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:58:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:58:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:59:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:59:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:59:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:59:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:00:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:00:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:00:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:00:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:01:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:01:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:01:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:01:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:02:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:02:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:02:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:02:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:03:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:03:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:03:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:03:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:04:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:04:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:04:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:04:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:05:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:05:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:05:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:05:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:06:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:06:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:06:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:06:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:07:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:07:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:07:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:07:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\Unconfirmed 547244.crdownload', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:08:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:08:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-v11.2.2+security-01\\tools\\zoneinfo.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:08:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:08:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:09:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:09:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:09:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:09:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:10:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:10:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:10:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:10:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:11:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:11:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:11:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:11:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:12:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:12:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:12:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:12:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:13:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:13:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:13:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:13:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\grafana-enterprise-11.2.2+security-01.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:14:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:14:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:14:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:14:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:15:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:15:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:15:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:15:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:16:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:16:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:16:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:16:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:17:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:17:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:17:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:17:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:18:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:18:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:18:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:18:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:19:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:19:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:19:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:19:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:20:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:20:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:20:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:20:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:21:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:21:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:21:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:21:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:22:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:22:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:22:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:22:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:23:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:23:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:23:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:23:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:24:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:24:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:24:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:24:45] "GET /metrics HTTP/1.1" 200 -
+INFO:root:Uploading Poojan_Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan_Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:24:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:25:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:25:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:25:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:25:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:26:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:26:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:26:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:26:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:27:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:27:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:27:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:27:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:28:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:28:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:28:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:28:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:29:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:29:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:29:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:29:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:30:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:30:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:30:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:30:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:31:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:31:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:31:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:31:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:32:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:32:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:32:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:32:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:33:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:33:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:33:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:33:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:34:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:34:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:34:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:34:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:35:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:35:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:35:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:35:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:36:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:36:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:36:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:36:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:37:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:37:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:37:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:37:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:38:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:38:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:38:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:38:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:39:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:39:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:39:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:39:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:40:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:40:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:40:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:40:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:41:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:41:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:41:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:41:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:42:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:42:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:42:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:42:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:43:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:43:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:43:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:43:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:44:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:44:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:44:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:44:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:45:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:45:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:45:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:45:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:46:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:46:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:46:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:46:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:47:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:47:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:47:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:47:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:48:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:48:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:48:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:48:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:49:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:49:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:49:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:49:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:50:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:50:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:50:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:50:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:51:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:51:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:51:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:51:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:52:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:52:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:52:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:52:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:53:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:53:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:53:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:53:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:54:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:54:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:54:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:54:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:55:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:55:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:55:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:55:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:56:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:56:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:56:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:56:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:57:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:57:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:57:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:57:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:58:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:58:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:58:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:58:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\metrics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_httpauth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:59:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:59:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:59:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\request.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 22:59:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:00:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:00:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:00:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:00:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\credentials\\providers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:01:00] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:01:15] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:01:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:01:45] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 23:02:00] "GET /metrics HTTP/1.1" 200 -
