@@ -44,6 +44,18 @@ def metrics():
 
 
 
+# Default route for the root URL
+@app.route('/')
+def index():
+    return "Welcome to the Local Cloud Storage API"
+
+
+UPLOAD_FOLDER = 'D:\\Cloud_Services\\files'
+
+
+# Enable logging to file
+logging.basicConfig(filename='file_upload.log', level=logging.INFO)
+
 
 # Upload functionality 
 @app.route('/upload', methods=['POST'])
@@ -75,22 +87,6 @@ def upload_file():
         except Exception as e:
             logging.error(f"Error uploading file: {str(e)}")
             return jsonify({"error": str(e)}), 500
-
-
-
-
-# Default route for the root URL
-@app.route('/')
-def index():
-    return "Welcome to the Local Cloud Storage API"
-
-
-UPLOAD_FOLDER = 'D:\\Cloud_Services\\files'
-
-
-# Enable logging to file
-logging.basicConfig(filename='file_upload.log', level=logging.INFO)
-
 
 
 
