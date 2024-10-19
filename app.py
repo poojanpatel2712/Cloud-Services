@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 from minio import Minio 
 from flask_httpauth import HTTPBasicAuth
-
+from prometheus import request_time
+from prometheus import upload_counter
 auth = HTTPBasicAuth()
 
 # Define valid users
@@ -45,6 +46,7 @@ logging.basicConfig(filename='file_upload.log', level=logging.INFO)
 # Upload functionality 
 @app.route('/upload', methods=['POST'])
 @auth.login_required
+@request_time.time()
 def upload_file():
     if 'file' not in request.files:
         return 'No file part', 400
@@ -66,6 +68,7 @@ def upload_file():
             logging.info(f"Uploading {filename} to bucket {bucket_name}")
             client.put_object(bucket_name, filename, file.stream, length=-1, part_size=10*1024*1024)
             logging.info(f"Successfully uploaded {filename}")
+            upload_counter.inc()
             return jsonify({"message": f"File '{filename}' uploaded successfully"}), 200
         except Exception as e:
             logging.error(f"Error uploading file: {str(e)}")

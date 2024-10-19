@@ -592,3 +592,167 @@ INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:55:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:56:00] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:56:01] "GET /files HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:56:21] "POST /upload HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:57:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 20:57:16] "[31m[1mPOST /upload HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus-3.0.0-beta.1.windows-amd64.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:22:00] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:22:15] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:22:30] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:22:45] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\asgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\asgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\asgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\context_managers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\context_managers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\decorator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\decorator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\decorator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\gc_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\gc_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\gc_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\metrics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\metrics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\metrics_core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\metrics_core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\mmap_dict.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\mmap_dict.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\multiprocess.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\multiprocess.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\multiprocess.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\platform_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\platform_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\process_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\process_collector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\samples.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\samples.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\values.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\values.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\values.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\bridge\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\bridge\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\bridge\\graphite.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\bridge\\graphite.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\bridge\\graphite.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\openmetrics\\parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\_exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\_exposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\twisted\\_exposition.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:23:00] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:23:15] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:23:30] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:23:45] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:24:00] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:24:15] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:24:30] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:24:45] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:25:00] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:25:15] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\wsgiref\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\wsgiref\\simple_server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\wsgiref\\handlers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\wsgiref\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\wsgiref\\headers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\abc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\prometheus.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [19/Oct/2024 21:25:30] "[33mGET /metrics HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\packaging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\profile.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
