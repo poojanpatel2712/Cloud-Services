@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template, make_response
 from minio import Minio 
 from flask_httpauth import HTTPBasicAuth
 import os
@@ -43,12 +43,19 @@ def metrics():
     return Response(generate_latest(), mimetype='text/plain')
 
 
+# @app.route('/test')
+# def test():
+#     return "Test route working!"
+
+
 
 # Default route for the root URL
 @app.route('/')
 def index():
-    return "Welcome to the Local Cloud Storage API"
-
+    print("Rendering index.html")
+    response = make_response(render_template('index.html'))
+    response.headers['Cache-Control'] = 'no-store'
+    return response
 
 UPLOAD_FOLDER = 'D:\\Cloud_Services\\files'
 

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Storage Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        .file-list {
+            margin-top: 20px;
+        }
+
+        .file-item {
+            display: flex;
+            justify-content: space-between;
+            background: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button.delete {
+            background-color: #DC3545;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cloud Storage Service</h1>
+
+        <!-- File Upload Form -->
+        <form id="uploadForm" enctype="multipart/form-data">
+            <input type="file" id="fileInput" name="file" required>
+            <button type="submit">Upload</button>
+        </form>
+
+        <!-- File List Section -->
+        <div class="file-list" id="fileList">
+            <h2>Uploaded Files</h2>
+            <div id="filesContainer"></div>
+        </div>
+    </div>
+
+    <script>
+        // Handle File Upload
+        const uploadForm = document.getElementById('uploadForm');
+        uploadForm.addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                const response = await fetch('/upload', {
+                    method: 'POST',
+                    body: formData,
+                    headers: {
+                        'Authorization': 'Basic ' + btoa('admin:password123')
+                    }
+                });
+
+                const result = await response.json();
+                alert(result.message);
+                fileInput.value = '';
+                fetchFiles(); // Refresh the file list after upload
+            } catch (error) {
+                console.error('Error uploading file:', error);
+            }
+        });
+
+        // Fetch and display the list of files
+        async function fetchFiles() {
+            try {
+                const response = await fetch('/files', {
+                    headers: {
+                        'Authorization': 'Basic ' + btoa('admin:password123')
+                    }
+                });
+
+                const files = await response.json();
+                const filesContainer = document.getElementById('filesContainer');
+                filesContainer.innerHTML = '';
+
+                files.forEach(file => {
+                    const fileItem = document.createElement('div');
+                    fileItem.classList.add('file-item');
+                    fileItem.innerHTML = `
+                        <span>${file}</span>
+                        <div>
+                            <button onclick="downloadFile('${file}')">Download</button>
+                            <button class="delete" onclick="deleteFile('${file}')">Delete</button>
+                        </div>
+                    `;
+                    filesContainer.appendChild(fileItem);
+                });
+            } catch (error) {
+                console.error('Error fetching files:', error);
+            }
+        }
+
+        // Handle file download
+        async function downloadFile(filename) {
+            try {
+                const response = await fetch(`/download/${filename}`, {
+                    headers: {
+                        'Authorization': 'Basic ' + btoa('admin:password123')
+                    }
+                });
+
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+            } catch (error) {
+                console.error('Error downloading file:', error);
+            }
+        }
+
+        // Handle file deletion
+        async function deleteFile(filename) {
+            try {
+                const response = await fetch(`/delete/${filename}`, {
+                    method: 'DELETE',
+                    headers: {
+                        'Authorization': 'Basic ' + btoa('admin:password123')
+                    }
+                });
+
+                const result = await response.json();
+                alert(result.message);
+                fetchFiles(); // Refresh the file list after deletion
+            } catch (error) {
+                console.error('Error deleting file:', error);
+            }
+        }
+
+        // Load files on page load
+        document.addEventListener('DOMContentLoaded', fetchFiles);
+    </script>
+</body>
+</html>

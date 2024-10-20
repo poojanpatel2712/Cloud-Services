@@ -1615,3 +1615,363 @@ INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\blueprints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\ctx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\signals.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\minimal_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_httpauth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\blueprints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\ctx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\helpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\signals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\templating.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\commonconfig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\credentials\\providers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\datatypes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\minimal_app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Cloud_Services\\minimal_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:21:57] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:21:59] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:21:59] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:22:00] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:22:02] "GET / HTTP/1.1" 200 -
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE1324D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE1332E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:22:15] "GET /test HTTP/1.1" 200 -
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE133700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:22:19] "GET / HTTP/1.1" 200 -
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE133E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE1746D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE174F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE174610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EAEE175300>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\minimal_app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21627C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21625A20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:24:28] "GET / HTTP/1.1" 200 -
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF216510F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21651DB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21626D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21652C20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21653CA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21652B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21653AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21653640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844220>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21653310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF216530D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21652E60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844670>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:24:40] "GET / HTTP/1.1" 200 -
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF218450F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF218452A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF218465C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF218455D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21844F40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21845750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21846B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF218468F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21847040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21846E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF216244F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF21845FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /your-bucket?location=
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\connection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\http\\client.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:root:Uploading Poojan.jpg to bucket your-bucket
+INFO:root:Successfully uploaded Poojan.jpg
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:30] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:53] "DELETE /delete/Poojan%20Patel.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:55] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:28:30] "GET /download/Poojan.jpg HTTP/1.1" 200 -
