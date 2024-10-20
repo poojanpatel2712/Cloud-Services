@@ -1975,3 +1975,429 @@ INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:30] "GET /files HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:53] "DELETE /delete/Poojan%20Patel.pdf HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:27:55] "GET /files HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:28:30] "GET /download/Poojan.jpg HTTP/1.1" 200 -
+INFO:root:Uploading IIIT PUNE ID.pdf to bucket your-bucket
+INFO:root:Successfully uploaded IIIT PUNE ID.pdf
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:41:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:41:37] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:41:40] "GET /download/IIIT%20PUNE%20ID.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:42:12] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:42:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:42:33] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:42:36] "DELETE /delete/IIIT%20PUNE%20ID.pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Oct/2024 15:42:38] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:24:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:24:03] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\credentials\\providers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\platform\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_clearing_run_switches.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_clearing_run_switches.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_clearing_run_switches.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_cpp_exception.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_cpp_exception.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_initialstub_already_started.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_initialstub_already_started.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_slp_switch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_slp_switch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_slp_switch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_three_greenlets2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_two_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_two_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\fail_switch_two_greenlets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\leakcheck.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\leakcheck.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\leakcheck.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_contextvars.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_contextvars.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_contextvars.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_cpp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_cpp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_extension_interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_extension_interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_extension_interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_gc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_gc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_generator_nested.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_generator_nested.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_greenlet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_greenlet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_greenlet_trash.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_greenlet_trash.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_leaks.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_leaks.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_stack_saved.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_stack_saved.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_throw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_throw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_tracing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_tracing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_weakref.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\greenlet\\tests\\test_weakref.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\datastructures\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\prometheus_client\\context_managers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\xml.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\helpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\urllib3\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\sse.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\commonconfig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\retention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\minio\\datatypes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\cli.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\cli.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\pagination.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\pagination.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\query.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\query.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\record_queries.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\record_queries.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\table.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\table.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\table.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\track_modifications.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\track_modifications.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_sqlalchemy\\track_modifications.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\sessions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\local.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\ctx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\config.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:36] "[32mGET /files HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:36] "GET /login?next=/files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:38] "[32mGET /files HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:38] "GET /login?next=/files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:39:45] "GET /signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:32] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:43] "[32mPOST /signup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:54] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:54] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:54] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:54] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=qI8iiWqQoU1C862GHVBh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:40:54] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:08] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:08] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:08] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:08] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=5Xg33BIb2G4jAYisZxZO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:08] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:15] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:15] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:15] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:15] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=5Xg33BIb2G4jAYisZxZO HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:42:15] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:43:05] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:43:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:43:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:43:06] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=MQg6rgBVjEgvm2lzL1Wt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:43:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:44:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:44:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:44:16] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:44:50] "GET /signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:45:05] "[32mPOST /signup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:45:05] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:45:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:45:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:45:18] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:53] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:55] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:58] "[32mGET /files HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:46:58] "GET /login?next=/files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:50:41] "GET /signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:51:52] "GET /signup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:54:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:54:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:54:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:54:46] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:55:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:55:31] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:56:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 00:56:02] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'C:\\Users\\91991\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:09:50] "GET / HTTP/1.1" 200 -
+INFO:root:Files for user poojan: []
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:09:50] "GET /files HTTP/1.1" 200 -
+INFO:root:Uploading IIIT PUNE ID.pdf to bucket your-bucket
+INFO:root:Successfully uploaded IIIT PUNE ID.pdf
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:06] "POST /upload HTTP/1.1" 200 -
+INFO:root:Files for user poojan: ['IIIT PUNE ID.pdf']
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:08] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:15] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:15] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:29] "GET / HTTP/1.1" 200 -
+INFO:root:Files for user poojan1: []
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:29] "GET /files HTTP/1.1" 200 -
+INFO:root:Uploading Poojan Patel.pdf to bucket your-bucket
+INFO:root:Successfully uploaded Poojan Patel.pdf
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:42] "POST /upload HTTP/1.1" 200 -
+INFO:root:Files for user poojan1: ['Poojan Patel.pdf']
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:44] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:46] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:56] "GET / HTTP/1.1" 200 -
+INFO:root:Files for user poojan: ['IIIT PUNE ID.pdf']
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:10:56] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:11:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:11:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:11:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:11:18] "GET / HTTP/1.1" 200 -
+INFO:root:Files for user poojan1: ['Poojan Patel.pdf']
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:11:18] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Cloud_Services\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 993-438-338
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:11] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:23] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:39] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:48] "GET / HTTP/1.1" 200 -
+INFO:root:Files for user poojan: ['IIIT PUNE ID.pdf']
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:48] "GET /files HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2024 01:17:55] "GET /download/IIIT%20PUNE%20ID.pdf HTTP/1.1" 200 -
