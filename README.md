@@ -1,7 +1,5 @@
 # Cloud-Services
 
-# Cloud Storage Service with User Authentication
-
 This project is a **cloud storage service** that allows users to securely upload, view, download, and delete their own files through a user-friendly interface. All files are stored using **MinIO**, a scalable S3-compatible object storage service. Each user can access only their own uploaded files, while the administrator can monitor and manage all the files via the MinIO console.
 
 ## Features
