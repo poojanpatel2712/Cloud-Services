@@ -13,7 +13,6 @@ This project is a **cloud storage service** that allows users to securely upload
 ## Significance of the Project
 
 This project is a robust example of a **cloud storage solution** with user authentication and file isolation. It demonstrates how to implement secure, user-specific file storage using **Flask** for the backend and **MinIO** for file storage. The project highlights:
-- **Role-based access control (RBAC)** for user-specific data visibility.
 - Scalable object storage using **MinIO**.
 - Building a web application with **Flask** that handles user data securely.
 
