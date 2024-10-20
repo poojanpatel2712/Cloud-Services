@@ -51,8 +51,8 @@ docker run -p 9000:9000 --name minio -e "MINIO_ACCESS_KEY=minioadmin" -e "MINIO_
 ```
 
 MinIO will now be accessible at **http://localhost:9000**. Log in with:
-Access Key: minioadmin
-Secret Key: minioadmin
+- Access Key: minioadmin
+- Secret Key: minioadmin
 
 4. **Set Up the Database**
 
@@ -70,7 +70,8 @@ python app.py
 
 The application will run at **http://localhost:5000**.
 
-Future Enhancements:
+## Future Enhancements:
+
 - File Versioning: Implement file versioning to allow users to access older versions of their files.
 - OAuth Integration: Add social login options (e.g., Google, GitHub) to simplify user authentication.
 - File Encryption: Encrypt uploaded files for additional security.
